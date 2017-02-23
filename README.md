@@ -4,6 +4,10 @@ TensorFlow is an open source library for numerical computaion.
 
 This is a model to classify images of different types of rashes.
 
+In this sample we want to differentiate between bed bug and eczema.  
+
+###### *more samples coming soon
+
 ## What's in here?
 
 1. Sample images of different type of rashes.
